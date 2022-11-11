@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Red Hat Display', sans-serif;
+}
+nav{
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+}
+.list{
+    display: flex;
+    font-weight: 500;
+    font-size: 20px;
+}
+.list_item{
+    margin-left: 20px;
+    list-style: none;
+}
+.list_item a{
+    text-decoration: none;
+    color: #25202F;
+}
+.bottom_texts{
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.hello{
+    padding-top: 125px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #666666;
+}
+.adam{
+    padding-top: 25px;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.free{
+    font-weight: 400;
+    font-size: 24px;
+    color: #25202F;
+    padding-bottom: 50px;
+}
+.talk{
+    padding:14px 48px;
+    background: #8643DC;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    border: none;
+}
+/* ----------------------------------------------------head tugadi------------------------------------------- */
+
+.section1{
+    width: 1120px;
+    margin: auto;
+    margin-top: 151px;
+    margin-bottom: 50px;
+}
+.actually{
+    font-weight: 700;
+    font-size: 36px;
+    color: #25202F;
+    margin-bottom: 50px;
+}
+.texth1{
+    width: 246px;
+    display: flex;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.UX{
+    font-weight: 500;
+    font-size: 24px;
+    color: #25202F;
+    margin-left: 20px;
+}
+.demos{
+    margin-top: 35px;
+    width: 350px;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 32px;
+   color: #47444E;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+/* <-- ---------------------------------------------------section 1 tugadi------------------------------------------------------ --> */
+ 
+/* <-- ----------------------------------------------------section 2 boshlandi-------------------------------------------------- --> */
+    
+
+.section2{
+    width: 1120px;
+    margin: auto;
+    margin-top: 201px;
+    margin-bottom: 30px;
+}
+.all{
+    font-weight: 700;
+     font-size: 36px;
+    color: #25202F;
+}
+.rasm{
+    margin-top: 30px;
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 68px;
+}
+.rasm1{
+    height: 427px;
+    width: 540px;
+    filter: drop-shadow(0px 20px 50px rgba(220, 192, 255, 0.3));
+    background: url(image.png);
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.rasm2{
+    width: 540px;
+    background: url(image.png);
+    filter: drop-shadow(0px 20px 50px rgba(220, 192, 255, 0.3));
+    border-radius: 10px;
+    height: 427px;
+}
+
+/* <-- ---------------------------------------------------section 2 tugadi------------------------------------------------------ --> */
+ 
+/* <-- ----------------------------------------------------section 3 boshlandi-------------------------------------------------- --> */
+.section3{
+    width: 1120px;
+    margin: auto;
+}
+.card1{
+    background: #FFF7FA;
+    border: 1px solid #FFE7F0;
+    border-radius: 10px;
+    width: 170px;
+    margin-bottom: 200px;
+    box-shadow: 2px 2px 30px 20px #FFF7FA;
+    }
+#all{
+    margin-bottom: 44px;
+}
+.win{
+    padding: 30px 60px;
+}
+.slack{
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+    padding: 0px 60px 30px 60px;
+}
+.Cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card1:nth-child(2){
+    background: #EDFFF5;
+    border: 1px solid #CAFFE1;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #EDFFF5;
+}
+.card1:nth-child(3){
+    background: #F5FCFF;
+    border: 1px solid #DDF5FF;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #F5FCFF;
+}
+.card1:nth-child(4){
+    background: #FFFBF2;
+    border: 1px solid #FFEEC9;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #FFFBF2;
+}
+.card1:nth-child(5){
+    background: #F4FFED;
+    border: 1px solid #DBFFC4;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #F4FFED;
+}
+    
+.bigcard{
+    margin-bottom: 100px;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    padding: 45px 0 17px;
+    margin: 8px 0;
+    border-bottom: 1px solid #DAD2E3;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #A8A0B0;
+}
+#talk{
+    margin-top: 35px;
+}
+/* <-- ---------------------------------------------------section 3 tugadi------------------------------------------------------ --> */
+ 
+/* <-- ----------------------------------------------------section 4 boshlandi-------------------------------------------------- --> */
+.section4{
+    width: 1120px;
+    margin: auto;
+}
+.text2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+a{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+    color: #8643DC;
+}
+#hall{
+    margin-bottom: 50px;
+}
+.list2{
+    list-style: none;
+}
+/* <-- ---------------------------------------------------section 4 tugadi------------------------------------------------------ --> */
+ 
+/* <-- ----------------------------------------------------footer boshlandi-------------------------------------------------- --> */
+footer{
+    width: 1120px;
+    margin: auto;
+}
+.let{
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #21232D;
+    margin-bottom: 30px;
+}
+.pro{
+   display: flex;
+   margin: auto;
+   justify-content: center;
+   margin-bottom: 50px;
+}
+.foot{
+    margin: 0 20px;
+}
+/* <-- ---------------------------------------------------footer tugadi------------------------------------------------------ --> */
+ 
+/* <-- ----------------------------------------------------maket tugadiiiiiii-------------------------------------------------- --> */

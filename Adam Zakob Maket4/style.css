@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Red Hat Display', sans-serif;
+}
+nav{
+    padding-top: 72px;
+}
+.list{
+    display: flex;
+}
+.list_item{
+    list-style: none;
+    margin-left: 20px;
+    color: #7E7F86;
+    font-weight: 500;
+    font-size: 20px;
+}
+.text{
+    margin-top: 120px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #666666;
+    }
+.adam{
+    padding-top: 25px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.free{
+    font-weight: 400;
+    font-size: 24px;
+    color: #25202F;
+}
+.btn-2{
+    margin-top: 50px;
+    padding:14px 48px;
+    background: #8643DC;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    border: none;
+}
+/* -------------------------------------------------header tugadi--------------------------------------------------- */
+/* -------------------------------------------------section1 boshlandi--------------------------------------------------- */
+.section1{
+    margin-top: 150px;
+}
+.what{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #25202F;
+    margin-bottom: 50px;
+    }
+    .bigtext{
+    margin-top: 20px;
+    margin-bottom: 200px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #47444E;
+    }
+.imageAndText{
+    display: flex;
+    align-items: end;
+}
+.UX{
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #25202F;
+}
+/* -------------------------------------------------section1 tugadi--------------------------------------------------- */
+/* -------------------------------------------------section2 boshlandi--------------------------------------------------- */
+#what{
+    margin-bottom: 30px;
+}
+/* -------------------------------------------------section2 tugadi--------------------------------------------------- */
+/* -------------------------------------------------section3 boshlandi--------------------------------------------------- */
+.section3{
+    width: 1280px;
+    margin: auto;
+}
+.card1{
+    background: #FFF7FA;
+    border: 1px solid #FFE7F0;
+    border-radius: 10px;
+    width: 170px;
+    margin-bottom: 200px;
+    box-shadow: 2px 2px 30px 20px #FFF7FA;
+    }
+.alla{
+    margin-top: 200px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #25202F;
+    margin-bottom: 44px;
+}
+.win{
+    padding: 30px 60px;
+}
+.slack{
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+    padding: 0px 60px 30px 60px;
+}
+.Cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card1:nth-child(2){
+    background: #EDFFF5;
+    border: 1px solid #CAFFE1;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #EDFFF5;
+}
+.card1:nth-child(3){
+    background: #F5FCFF;
+    border: 1px solid #DDF5FF;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #F5FCFF;
+}
+.card1:nth-child(4){
+    background: #FFFBF2;
+    border: 1px solid #FFEEC9;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #FFFBF2;
+}
+.card1:nth-child(5){
+    background: #F4FFED;
+    border: 1px solid #DBFFC4;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px 20px #F4FFED;
+}
+    
+.bigcard{
+    margin-bottom: 100px;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    padding: 45px 0 17px;
+    margin: 8px 0;
+    border-bottom: 1px solid #DAD2E3;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #A8A0B0;
+}
+#talk{
+    margin-top: 35px;
+}
+/* -------------------------------------------------section3 tugadi--------------------------------------------------- */
+/* -------------------------------------------------section4 boshlandi--------------------------------------------------- */
+.bigger{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 52px;
+    color: #21232D;
+}
+.firstName{
+    width: 100%;
+    padding: 18px;
+    margin-bottom: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #DAD2E3;
+    outline: none;
+}
+#bt{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background: #8643DC;
+    border-radius: 100px;
+    padding: 18px 50px;
+}
+footer{
+    width: 1120px;
+    margin: auto;
+}
+.let{
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #21232D;
+    margin-bottom: 30px;
+}
+.pro{
+   display: flex;
+   margin: auto;
+   justify-content: center;
+   margin-bottom: 50px;
+}
+.foot{
+    margin: 0 20px;
+}

@@ -1,0 +1,281 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.section1{
+    margin-top: 200px;  
+    margin-bottom: 200px;
+}
+.bigg{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4B4B;
+}
+.bigg2{
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+.aziz{
+    display: flex;
+    justify-content: space-between;
+}
+.islom{
+    font-weight: 400;
+    font-size: 42px;
+    color: #000000;
+}
+.beh{
+    margin-top: 9px;
+    margin-bottom: 31px;
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;;
+}
+.card{
+    border: none;
+}
+.card2{
+    background: #F8F9FA;
+    border-radius: 16px;            
+    text-align: center;
+    margin-bottom: 75px;
+}
+.see{
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    color: #000000;
+}
+.our{
+    margin-top: 9px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 13px;
+    color: #000000;
+    margin-bottom: 56px;
+}
+.smart{
+    padding-top: 41px;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 0;
+}
+.latest{
+    font-weight: 600;
+    font-size: 28px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.btn4{
+    padding: 14px 60px;
+    border: 1px solid #000000;
+    border-radius: 200px;
+    margin-bottom: 30px;
+    text-align: center;
+    background: transparent;
+}
+.kitob{
+    margin-left: 600px;
+    display: flex;
+    width: 620px;
+    height: 420px;
+    background: url(.png);
+    border-radius: 16px;
+    margin-bottom: 70px;
+}
+.we{
+    margin-bottom: 28px;
+    margin-left: 35px;
+    font-family: 'Inter';
+    font-style: normal;     
+    font-weight: 590;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+.container1{
+    display: flex;
+}
+.allav{
+    text-align: center;
+    font-weight: 595;
+    font-size: 25px;
+    color: #000000;
+}
+.strelka{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 75px;
+}
+.card3{
+    margin-top: 20px;
+    margin-left: 325px;
+    display: flex;
+    background: #F8F9FA;
+    border: 1px solid #C5C5C5;
+    border-radius: 100px;
+    margin-bottom: 18px;
+    width: 650px; 
+    height: 60px;
+}
+.qq{
+    margin: 15px 20px 16px 17px;
+    width: 30px;
+    height: 29px;
+}
+.small{
+    padding: 21px 6px 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #000000;
+}
+.iphone{
+    margin-left: 7px;
+    height: 42px;
+    width: 90px;
+    padding: 8px 22px 13px 18px;
+    background: #FFFFFF;
+    border: 1px solid #C5C5C5;
+    border-radius: 200px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+#charger{
+    width: 98px;
+    height: 42px;
+}
+#gift{
+    width: 68px;
+    height: 42px;
+}
+
+.col-5{
+    display: flex;
+}
+#google{
+    width: 142px;
+    height: 42px;
+}
+#key{
+    width: 100px;
+    height: 42px;
+}
+#pro{
+    width: 118px; 
+    height: 42px;
+}
+#i12{
+    width: 109px;
+    height: 42px;
+}
+.col-5{
+    display: flex;
+    justify-content: center;
+}
+#laptop{
+    width: 91px;
+    height: 42px;
+}
+#mobile{
+    width: 89px;
+    height: 42px;
+}
+.back{
+    margin-top: 68px; 
+    margin-bottom: 19px;  
+    margin-left: -150px;
+}
+.div{
+    background-color: #DCE5E2;
+    
+}
+.never{
+    padding: 47px 270px 9px;
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    color: #000000;
+}
+.col-10{
+    margin-top: 68px;
+    margin-bottom: 20px;
+}
+.sign{
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+}
+.nts{
+    margin-left: 400px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#qiyin{
+    display: flex;
+    background: #DCE5E2;
+    margin-left: 367px;
+    width: 345px;
+    padding-bottom: 93px;
+   
+    
+}
+.form-control{
+    height: 50px;
+    background: #DCE5E2;
+    border: 1px solid #000000;
+    border-radius: 54px 0px 0px 54px;
+}
+#basic-addon2{
+    width: 105px;
+    height: 50px;
+     color: #FFFFFF;
+    background: #000000;
+    border-radius: 0px 200px 200px 0px;
+}
+/* .foot{
+    width: 1120px;
+    display: flex;
+}
+#up{
+    margin-top: 20px;
+    margin-left: 73px;
+    font-weight: 599;
+    font-size: 18px;
+    color: #000000;
+    line-height: 25px;
+}
+.lila{
+    list-style: none;
+    padding-bottom: 14px;
+}
+.products{
+    margin-top: 44px;
+    margin-left: 30px;
+    margin-bottom: 19px;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+}
+.mb-2{
+    width: 181px;
+    height: 22px;
+}
+a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+} */
